@@ -2,7 +2,5 @@ cat << 'EOF' > .gitignore
 venv/
 __pycache__/
 data/
-*.pt
-*.pth
 .DS_Store
 EOF
